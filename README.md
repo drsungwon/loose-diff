@@ -1,5 +1,9 @@
 # Loose Diff Utility
 
+![alt text](https://img.shields.io/badge/python-3.x-blue.svg)
+![alt text](https://img.shields.io/badge/dependencies-standard%20library-green.svg)
+![alt text](https://img.shields.io/badge/license-MIT-blue.svg)
+
 `loose-diff`는 두 텍스트 파일을 비교하되, 파일 맨 끝에 있는 중요하지 않은 공백과 줄바꿈을 모두 무시하는 간단한 커맨드라인 유틸리티입니다. 코드의 기능에 영향을 주지 않는 사소한 포맷팅 차이로 인해 표준 `diff` 도구가 두 파일을 다르다고 판단하는 문제를 해결하기 위해 만들어졌습니다.
 
 ---
